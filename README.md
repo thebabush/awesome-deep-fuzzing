@@ -13,6 +13,7 @@ Your favorite tool or your own paper is not listed? Fork and create a Pull Reque
 
 ## Supervised Learning
 
+- [LAFuzz: Neural Network for Efficient Fuzzing](https://ieeexplore.ieee.org/abstract/document/9288180)(2020)(paywalled)
 - [NEUZZ: Efficient Fuzzing with Neural Program Smoothing](https://arxiv.org/abs/1807.05620)
   (2018)
 - [Not all bytes are equal: Neural byte sieve for fuzzing](https://arxiv.org/abs/1711.04596)
